@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogoProveedor emitido="2026-09-03" proveedor="Ferreteria Andina S.A.S">
+  <lote numero="L-2291">
+    <articulo denominacion="Sierra circular 7 1/4" codigoBarras="SC-714" fabricante="Makita">
+      <precioLista moneda="COP">615000</precioLista>
+      <inventarioDisponible unidad="unidades">9</inventarioDisponible>
+      <procedencia pais="Japon" ciudad="Nagoya"/>
+    </articulo>
+    <articulo denominacion="Amoladora angular 4 1/2" codigoBarras="AA-45" fabricante="Dewalt">
+      <precioLista moneda="COP">329900</precioLista>
+      <inventarioDisponible unidad="unidades">22</inventarioDisponible>
+      <procedencia pais="China" ciudad="Suzhou"/>
+    </articulo>
+    <articulo denominacion="Set de brocas para concreto 10 pz" codigoBarras="SB-10C" fabricante="Irwin">
+      <precioLista moneda="COP">87400</precioLista>
+      <inventarioDisponible unidad="cajas">15</inventarioDisponible>
+      <procedencia pais="Estados Unidos" ciudad="Huntersville"/>
+    </articulo>
+  </lote>
+</catalogoProveedor>

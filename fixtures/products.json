@@ -1,0 +1,60 @@
+{
+  "warehouse": {
+    "id": "WH-BOG-02",
+    "city": "Bogota",
+    "manager": "L. Ramirez"
+  },
+  "synced_at": "2026-09-05T18:40:11Z",
+  "page": 1,
+  "items": [
+    {
+      "title": "Compresor de aire 50L",
+      "code": "CA-50",
+      "cost": {
+        "amount": 1350000,
+        "currency": "COP"
+      },
+      "stock": {
+        "on_hand": 3,
+        "reserved": 1
+      },
+      "manufacturer": "Truper",
+      "made_in": {
+        "country": "Mexico",
+        "state": "Nuevo Leon"
+      },
+      "notes": "Requiere toma de 220V"
+    },
+    {
+      "title": "Pistola de calor 2000W",
+      "code": "PC-2000",
+      "cost": {
+        "amount": 178500,
+        "currency": "COP"
+      },
+      "stock": {
+        "on_hand": 11,
+        "reserved": 0
+      },
+      "manufacturer": "Bosch",
+      "made_in": {
+        "country": "Alemania",
+        "state": "Baden-Wurttemberg"
+      }
+    },
+    {
+      "title": "Multimetro digital TRMS",
+      "code": "MD-TRMS",
+      "cost": {
+        "amount": 96000,
+        "currency": "COP"
+      },
+      "manufacturer": "Fluke",
+      "made_in": {
+        "country": "Estados Unidos",
+        "state": "Washington"
+      },
+      "notes": "Sin conteo de inventario en este corte"
+    }
+  ]
+}
